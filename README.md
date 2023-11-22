@@ -7,8 +7,8 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/MikhalchenkoD/BybitPageParser.git
-    cd BybitPageParser
+    git clone https://github.com/MikhalchenkoD/test-task-bybit-page-parser.git
+    cd test-task-bybit-page-parser
     ```
 
 2. Установка зависимостей:
